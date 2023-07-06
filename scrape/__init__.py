@@ -1,0 +1,1 @@
+from .dbatu import get_news

@@ -1,0 +1,76 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": [
+                "Hi",
+                "Hey",
+                "how are you",
+                "Is anyone there?",
+                "Hello",
+                "Good Day"
+            ],
+            "responses": [
+                "Hey :-)",
+                "Hello, how may i help you",
+                "Hi there, what can I do for you?",
+                "Hi there, how can I help?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "Bye",
+                "See you later",
+                "Goodbye"
+            ],
+            "responses": [
+                "See you later, thanks for visiting",
+                "Have a nice day",
+                "Bye! Come back again soon."
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+                "who are you",
+                "who you",
+                "what is your name"
+            ],
+            "responses": [
+                "I am AI Bassed Smart Receptionies . Created By Prathmesh Lohar.Aniket Madhurkar, And Kedar Tandaale. As  An,  Final  Year  Project under the guidance of D.V Biradar Sir",
+                "your Receptionies created by prathmesh,aniket and kedar under the guidance of D.V Biradar Sir",
+                "Receptionies from IT Department under the guidance of D.V Biradar Sir"
+            ]
+        },
+        {
+            "tag": "thanks",
+            "patterns": [
+                "Thanks",
+                "Thank you",
+                "That's helpful",
+                "Thank's a lot!"
+            ],
+            "responses": [
+                "Happy to help!",
+                "Any time!",
+                "My pleasure"
+            ]
+        },
+        {
+            "tag": "creator",
+            "patterns": [
+              
+                "who is creator of you",
+                "your developer",
+                "who made you",
+                "who created you"
+            ],
+            "responses": [
+                "I am AI Bassed Smart Receptionies . Created By Prathmesh Lohar.Aniket Madhurkar, And Kedar Tandaale. As  An,  Final  Year  Project under the guidance of D.V Biradar Sir",
+                "your Receptionies created by prathmesh,aniket and kedar under the guidance of D.V Biradar Sir"
+           
+            ]
+        }
+    ]
+}
